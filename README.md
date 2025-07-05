@@ -45,4 +45,4 @@ Whether you’re a curious student, a proud alumni, or just someone exploring th
  
  
  🌟 DEMO
-![Alt text](/screnshot#/oiiii.mp4)
+![Demo](screenshot/oi.gif)
