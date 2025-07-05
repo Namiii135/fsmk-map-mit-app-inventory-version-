@@ -45,5 +45,4 @@ Whether you’re a curious student, a proud alumni, or just someone exploring th
  
  
  🌟 DEMO
-![Demo](screenshot/oi.gif)
-![Watch demo video](screenshot/oiiii.mp4)
+![Demo](screenshot/oiiii.gif)
